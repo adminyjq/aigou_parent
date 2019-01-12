@@ -1,4 +1,4 @@
-package org.yjq.aigou;
+package org.yjq.aigou.util;
 
 public class AjaxResult {
 

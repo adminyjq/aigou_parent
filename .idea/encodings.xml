@@ -2,10 +2,14 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Product_parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Product_parent/Product_interfence" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Product_parent/Product_service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Product_parent/Product_service_8002" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aigou_gen" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/basic_parent" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/basic_parent/basic_util" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/basic_util" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/eureka_server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config_server_8848" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/eureka_server_7001" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/plat_parent" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/plat_parent/plat_interface" charset="UTF-8" />

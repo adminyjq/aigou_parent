@@ -4,7 +4,7 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
-import org.yjq.aigou.AjaxResult;
+import org.yjq.aigou.util.AjaxResult;
 import org.yjq.aigou.domain.Employee;
 
 @RestController

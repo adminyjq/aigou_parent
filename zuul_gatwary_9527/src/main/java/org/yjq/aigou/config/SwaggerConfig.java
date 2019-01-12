@@ -24,7 +24,7 @@ public class SwaggerConfig {
                 .title("分布式购物系统")
                 .description("购物系统接口文档说明")
                 .termsOfServiceUrl("http://localhost:9527")
-                .contact(new Contact("yphtest", "", "yhp@itsoruce.cn"))
+                .contact(new Contact("yjqtest", "", "yjq@itsoruce.cn"))
                 .version("1.0")
                 .build();
 }

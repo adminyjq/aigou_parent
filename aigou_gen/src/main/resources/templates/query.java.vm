@@ -1,0 +1,10 @@
+package org.yjq.aigou.query;
+
+
+/**
+ *
+ * @author ${author}
+ * @since ${date}
+ */
+public class ${table.entityName}Query extends BaseQuery{
+}

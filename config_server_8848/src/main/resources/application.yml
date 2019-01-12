@@ -1,0 +1,18 @@
+server:
+  port: 8848
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:7001/eureka #添加到注册中心
+  instance:
+    prefer-ip-address: true
+spring:
+  application:
+    name: spring-cloud-config-server
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/adminyjq/aigou-config.git  #访问的github
+          username: adminyjq
+          password: yangjianqiang951013
